@@ -1,0 +1,8 @@
+activate env
+- source ./pywhatsapp/bin/activate
+
+TOKEN
+export TWILIO_AUTH_TOKEN='2afb187c63b80ffd6f1bde59a750fcf1'
+
+SSID
+export TWILIO_ACCOUNT_SID='AC89181179cdccaca8cd7aa7054c79bbc1'
